@@ -10,3 +10,4 @@ Github: https://github.com/aramic11/portfolio
 ## Screenshot
 
 
+![Readme](https://user-images.githubusercontent.com/113563367/194430433-655d41e5-1887-43fe-94d4-ad0a8adaea7a.png)
